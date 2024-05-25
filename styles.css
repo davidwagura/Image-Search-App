@@ -76,7 +76,7 @@ form {
     margin-left: 10px;
 }
 
-#search-results{
+.search-results{
     display: flex;
 
     justify-content: space-between;
