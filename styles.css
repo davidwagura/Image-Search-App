@@ -47,11 +47,13 @@ form {
 
     border: none;
 
+    height: fit-content;
+
     box-shadow:  0 0 6px rgba(0, 0, 0, 0.2);
 
     border-radius: 5px;
 
-    font-size: 10px;
+    font-size: 20px;
 
     color: #333;
 }
