@@ -1,4 +1,6 @@
-const accessKey = "IL3iPrvILohJE9ntsXCmNWKpkQvf4U_PxwHSbozzfTI";
+import { config } from "./config";
+
+const accessKey = config.accessKey;
 
 const formEl = document.querySelector("form");
 
