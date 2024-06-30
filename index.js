@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 import { config } from "./config";
 
 const accessKey = config.accessKey;
+=======
+const accessKey = "";
+>>>>>>> e64eee4ec4afc3e28ca0de825f82164da03e5ae8
 
 const formEl = document.querySelector("form");
 
